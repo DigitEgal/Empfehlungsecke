@@ -6,10 +6,6 @@
 
 Eine lokale Windows-App für eine umfangreiche, Ordner-basierte Sammlung von Web-Empfehlungen. Sie liest Windows-Internetverknüpfungen (`.url` / `.URL`), stellt die vertraute Ordnerstruktur übersichtlich dar und macht die Sammlung schnell durchsuchbar.
 
-<p align="center">
-  <img src="assets/digitegal_mark.png" alt="DigitEgal Tool-Logo" width="88">
-</p>
-
 ## Warum dieses Tool?
 
 Eine Link-Sammlung bleibt nur dann nützlich, wenn sie sich wie ein Explorer durchsehen und gleichzeitig wie eine Suchmaschine durchsuchen lässt. Die DigitEgal Empfehlungsecke verbindet beides – ohne Cloud, Konto oder Datenbank.
