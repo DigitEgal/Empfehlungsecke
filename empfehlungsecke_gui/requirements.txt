@@ -1,0 +1,2 @@
+# Keine Drittanbieter-Pakete erforderlich.
+# Die App verwendet ausschließlich die Python-Standardbibliothek inklusive tkinter.

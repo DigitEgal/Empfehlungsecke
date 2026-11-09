@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="560" viewBox="0 0 1280 560" role="img" aria-labelledby="title desc">
+  <title id="title">Suchansicht der DigitEgal Empfehlungsecke</title>
+  <desc id="desc">Eine Suche nach Privacy zeigt passende Unterordner und doppelfreie Links.</desc>
+  <defs><filter id="shadow" x="-10%" y="-10%" width="120%" height="130%"><feDropShadow dx="0" dy="8" stdDeviation="12" flood-color="#172b4d" flood-opacity=".12"/></filter></defs>
+  <rect width="1280" height="560" fill="#f4f7fb"/>
+  <rect x="30" y="24" width="1220" height="512" rx="15" fill="#fff" filter="url(#shadow)"/>
+  <rect x="30" y="24" width="1220" height="94" rx="15" fill="#172b4d"/>
+  <rect x="30" y="94" width="1220" height="24" fill="#172b4d"/>
+  <text x="58" y="79" font-family="Segoe UI,Arial" font-size="30" font-weight="700" fill="white">DigitEgal</text>
+  <text x="237" y="79" font-family="Segoe UI,Arial" font-size="24" font-weight="700" fill="white">Empfehlungsecke</text>
+  <rect x="55" y="141" width="1170" height="57" rx="8" fill="#fff" stroke="#3563e9" stroke-width="2"/>
+  <text x="76" y="177" font-family="Segoe UI,Arial" font-size="24" fill="#3563e9">⌕</text>
+  <text x="112" y="176" font-family="Segoe UI,Arial" font-size="15" fill="#172033">privacy</text>
+  <rect x="55" y="217" width="1170" height="258" rx="8" fill="#fff" stroke="#dce3ef"/>
+  <text x="77" y="245" font-family="Segoe UI,Arial" font-size="11" font-weight="700" fill="#68748a">INHALT / SUCHTREFFER</text>
+  <text x="77" y="273" font-family="Segoe UI,Arial" font-size="12" font-weight="700" fill="#3563e9">PFAD  ·  000_Empfehlungsecke  ›  Informationsquellen</text>
+  <rect x="70" y="289" width="1140" height="35" fill="#eff3f9"/>
+  <text x="89" y="312" font-family="Segoe UI,Arial" font-size="11" font-weight="700" fill="#53627b">TREFFER</text>
+  <text x="618" y="312" font-family="Segoe UI,Arial" font-size="11" font-weight="700" fill="#53627b">TYP</text>
+  <rect x="70" y="324" width="1140" height="39" fill="#eef4ff"/>
+  <text x="90" y="349" font-family="Segoe UI,Arial" font-size="14" fill="#31527f">📁  Basic IT, Coding &amp; Selfhosting  ›  Privacy &amp; Cybersecurity</text>
+  <text x="618" y="349" font-family="Segoe UI,Arial" font-size="13" fill="#68748a">Ordner</text>
+  <text x="90" y="388" font-family="Segoe UI,Arial" font-size="14" fill="#172033">Privacy Handbuch</text>
+  <text x="618" y="388" font-family="Segoe UI,Arial" font-size="13" fill="#68748a">Link · 3 Fundorte</text>
+  <line x1="70" y1="401" x2="1210" y2="401" stroke="#edf0f5"/>
+  <text x="90" y="430" font-family="Segoe UI,Arial" font-size="14" fill="#172033">Terms of Service; Didn't Read</text>
+  <text x="618" y="430" font-family="Segoe UI,Arial" font-size="13" fill="#68748a">Link · 2 Fundorte</text>
+  <text x="55" y="509" font-family="Segoe UI,Arial" font-size="12" fill="#68748a">1 passender Unterordner · 2 Link-Treffer im aktuell geöffneten Pfad</text>
+</svg>
