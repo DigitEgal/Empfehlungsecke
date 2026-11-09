@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/digitegal_wordmark.png" alt="DigitEgal" width="420">
+  <img src="empfehlungsecke_gui/assets/digitegal_wordmark.png" alt="DigitEgal" width="420">
 </p>
 
 # DigitEgal Empfehlungsecke
