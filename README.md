@@ -1,14 +1,10 @@
 <p align="center">
-  <img src="empfehlungsecke_gui/assets/digitegal_wordmark.png" alt="DigitEgal" width="420">
+  <img src="assets/digitegal_wordmark.png" alt="DigitEgal" width="420">
 </p>
 
 # DigitEgal Empfehlungsecke
 
 Eine lokale Windows-App für eine umfangreiche, Ordner-basierte Sammlung von Web-Empfehlungen. Sie liest Windows-Internetverknüpfungen (`.url` / `.URL`), stellt die vertraute Ordnerstruktur übersichtlich dar und macht die Sammlung schnell durchsuchbar.
-
-<p align="center">
-  <img src="empfehlungsecke_gui/assets/digitegal_mark.png" alt="DigitEgal Tool-Logo" width="88">
-</p>
 
 ## Warum dieses Tool?
 
