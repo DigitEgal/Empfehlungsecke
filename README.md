@@ -23,7 +23,7 @@ Eine Link-Sammlung bleibt nur dann nützlich, wenn sie sich wie ein Explorer dur
 
 ### Ordner erkunden
 
-<img src="docs/oberflaeche.svg" alt="Vorschau der Ordnernavigation mit Ordnerbaum und Inhalt" width="100%">
+<img src="empfehlungsecke_gui/docs/oberflaeche.svg" alt="Vorschau der Ordnernavigation mit Ordnerbaum und Inhalt" width="100%">
 
 1. Wähle links einen Ordner im Baum.
 2. Rechts erscheinen seine direkten Unterordner und Links.
@@ -32,7 +32,7 @@ Eine Link-Sammlung bleibt nur dann nützlich, wenn sie sich wie ein Explorer dur
 
 ### Im geöffneten Pfad suchen
 
-<img src="docs/suche.svg" alt="Vorschau einer Suche mit Unterordnern und eindeutigen Links" width="100%">
+<img src="empfehlungsecke_gui/docs/suche.svg" alt="Vorschau einer Suche mit Unterordnern und eindeutigen Links" width="100%">
 
 Die Suche berücksichtigt Titel, URL, Ordnerpfad und Dateinamen. Sie durchsucht den gerade geöffneten Pfad inklusive aller Unterordner. Passende Unterordner werden oberhalb der Link-Treffer eingeblendet und können direkt geöffnet werden.
 
